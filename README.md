@@ -1,6 +1,3 @@
-# W-F-
-Extraer las contraseñas de la pc de nuestra victima
-![](https://2.bp.blogspot.com/-ddecQaSiDuM/W8p8x4GYGTI/AAAAAAAAMh4/TGZ1n06E4nIk6V7FzJHgyEAUcAgQV065QCLcBGAs/s640/Screenshot_2.png)
 
 - El proceso para exportar e importar una conexión WiFi no es nada complejo, ya que bastará con hacer lo siguiente:
 ```
@@ -11,4 +8,3 @@ Aquí sustituiremos Nombre-Perfil-Deseado y Ruta-Exportación por las que deseem
 Abrir la consola de comandos CMD
 Ejecutar el comando netsh wlan add profile filename=Ruta-XML user=all .Aquí debemos sustituir el texto Ruta-XML por la ruta de nuestro fichero XML que hemos exportado en el paso 3 del proceso anterior.
 ```
-- https://www.lpericena.tk/2018/10/wifi.html
